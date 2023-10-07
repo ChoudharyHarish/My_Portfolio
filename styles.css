@@ -504,7 +504,7 @@ li a:hover::after{
   .input::placeholder{
     color: black;
   }
-
+  
 
   .msg-btn{
     padding: 1rem;
